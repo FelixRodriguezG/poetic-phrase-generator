@@ -1,19 +1,34 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Poetic Phrase Generator
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Este repositorio fue creado como parte de un tutorial de JavaScript para estudiantes de GitHub. El objetivo principal del proyecto es generar frases poéticas de forma aleatoria utilizando JavaScript, HTML y CSS.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Características
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Generación aleatoria de frases poéticas.
+- Interfaz simple y fácil de usar.
+- Código limpio y organizado, ideal para aprender y practicar JavaScript.
 
-Happy Coding!
+## Tecnologías utilizadas
+
+Este proyecto utiliza las siguientes tecnologías:
+
+- **JavaScript**: Para la lógica de generación de frases.
+- **HTML**: Para la estructura de la página web.
+- **CSS**: Para el diseño y la estilización de la interfaz.
+
+## Instalación
+
+Sigue estos pasos para clonar y ejecutar el proyecto en tu máquina local:
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/FelixRodriguezG/poetic-phrase-generator.git
+   cd poetic-phrase-generator
+   ```
+2. Abre el archivo index.html en tu navegador para ver la aplicación en funcionamiento.
+
+## Uso
+---
+1. Abre la aplicación en tu navegador.
+2. Haz clic en el botón para generar una nueva frase poética.
+3. Disfruta de las frases generadas y compártelas con tus amigos.
